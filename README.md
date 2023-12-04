@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Ciência da Computação e Pós Graduado em BI e Analytics.
 - 💼 Trabalhando como Analista Desenvolvedor na <a href="https://servimed.com.br/">SERVIMED COMERCIAL LTDA</a>
-- 🌱 &nbsp; Aprendendo mais sobre Javascript, PHP e Dados.
+- 🌱 &nbsp; Me especializando mais sobre Javascript, Typescript, PHP e Dados.
 
 <h3>Minhas Skills</h3>
 
@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
