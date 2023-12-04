@@ -44,6 +44,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-mernick/)
+[![Linkedin](https://img.shields.io/badge/-Matheus-Mernick-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-mernick/)](https://www.linkedin.com/in/matheus-mernick/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:mernick@live.com)
 [![GitHub](https://img.shields.io/github/followers/mmernick?label=follow&style=flat)](https://github.com/MMernick)
