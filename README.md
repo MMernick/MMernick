@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=mmernick&color=006bed)
 
 <h3>Sobre mim</h3>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/mmernick" title="Perfil do Matheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmernick&theme=dracula&show_icons=true" />
 </a>
 
@@ -44,4 +44,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-mernick/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:mernick@live.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=flat)](https://github.com/MMernick)
+[![GitHub](https://img.shields.io/github/followers/mmernick?label=follow&style=flat)](https://github.com/MMernick)
