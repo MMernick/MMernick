@@ -4,8 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Ciência da Computação e Pós Graduado em BI e Analytics.
-- 💼 Trabalhando como Analista Desenvolvedor na <a href="https://servimed.com.br/">SERVIMED COMERCIAL LTDA</a>
-- 🌱 &nbsp; Me especializando mais sobre Javascript, PHP e Dados.
+- 🔎 &nbsp; Explorando Javascript (Node.js / Express / NestJs), PHP (Laravel / Livewire) e Dados.
 
 <h3>Minhas Skills</h3>
 
