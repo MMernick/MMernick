@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Ciência da Computação e Pós Graduado em BI e Analytics.
-- 🔎 &nbsp; Explorando Javascript (Node.js / Express / NestJs), PHP (Laravel / Livewire) e Dados.
+- 🔎 &nbsp; Explorando Javascript / Typescript (Node.js / Express / NestJs), PHP (Laravel / Livewire) e Dados.
 
 <h3>Minhas Skills</h3>
 
